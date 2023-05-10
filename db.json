@@ -1,0 +1,102 @@
+{
+  "user": [
+    {
+      "id": "muthu",
+      "name": "muthu",
+      "password": "muthu123",
+      "email": "muthu@gmail.com",
+      "gender": "male",
+      "role": "",
+      "isactive": true
+    },
+    {
+      "id": "admin",
+      "name": "admin",
+      "password": "admin#123",
+      "email": "admin@gmail.com",
+      "gender": "male",
+      "role": "",
+      "isactive": true
+    },
+    {
+      "id": "seetha",
+      "name": "seetha",
+      "password": "seetha123",
+      "email": "seetha@gmail.com",
+      "gender": "female",
+      "role": "",
+      "isactive": false
+    },
+    {
+      "id": "ganesh",
+      "name": "ganesh",
+      "password": "ganesh123",
+      "repassword": "ganesh123",
+      "email": "ganesh@gmail.com",
+      "gender": "male",
+      "role": "",
+      "isactive": false,
+      "comment": ""
+    },
+    {
+      "id": "lokesh",
+      "name": "lokuraj",
+      "password": "620420",
+      "repassword": "620420",
+      "email": "lokeshraj420@gmail.com",
+      "gender": "male",
+      "role": "",
+      "isactive": true,
+      "comment": ""
+    },
+    {
+      "id": "munna",
+      "name": "abc",
+      "password": "123456",
+      "repassword": "123456",
+      "email": "abc@gmail.com",
+      "gender": "male",
+      "role": "",
+      "isactive": false,
+      "comment": ""
+    }
+  ],
+  "ticket": [
+    {
+      "name": "muthu",
+      "subject": "Install Postman",
+      "select": "General Enquiry",
+      "brief": "Install postman in my machine",
+      "file": "C:\\fakepath\\aadharcard.pdf",
+      "comment": "",
+      "id": 1
+    },
+    {
+      "name": "seetha",
+      "subject": "os reboot problem",
+      "select": "Major issue",
+      "brief": "Operating system fails to boot",
+      "file": "C:\\fakepath\\aadharcard.pdf",
+      "comment": "",
+      "id": 2
+    },
+    {
+      "name": "lokesh",
+      "subject": "regarding course fee",
+      "select": "General Enquiry",
+      "brief": "i want to konw how much installment still remain to pay ..",
+      "file": "C:\\fakepath\\1.pdf",
+      "comment": "",
+      "id": 3
+    },
+    {
+      "name": "lokesh",
+      "subject": "regarding course fee",
+      "select": "General Enquiry",
+      "brief": "i want to konw how much installment still remain to pay ..",
+      "file": "C:\\fakepath\\1.pdf",
+      "comment": "",
+      "id": 4
+    }
+  ]
+}
